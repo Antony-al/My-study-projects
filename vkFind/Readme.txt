@@ -1,1 +1,2 @@
 A trivial and single-tasking project that I started developing in order to familiarize myself with the Android Studio development environment.
+This programm finds people in the social network "VK" of their ID (gets firstname and lastname). 
